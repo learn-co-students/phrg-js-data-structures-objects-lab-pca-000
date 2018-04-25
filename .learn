@@ -6,3 +6,5 @@ languages:
   - javascript
 resources:
   - 1
+
+parent_template: git@github.com:learn-co-curriculum/js-data-structures-objects-lab.git
